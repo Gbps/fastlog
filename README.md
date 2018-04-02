@@ -51,6 +51,7 @@ from fastlog import log
 
 ## Documentation
 Fastlog is documented using regular Python docstrings in the source code itself.
+
 ReadTheDocs compilation is still pending.
 
 ## Modular styles
@@ -64,6 +65,7 @@ log.setStyle('fastlog.styles.pwntools')
 
 ## Project Status
 This project is currently in Beta while I continue to improve some features. 
+
 There aren't any breaking changes planned, just additions of new features.
 
 ## Is this just pwntools?
