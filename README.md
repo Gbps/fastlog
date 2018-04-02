@@ -1,5 +1,7 @@
 # ✨ fastlog: simple and colorful python logs ✨
 
+![PyPi Badge](https://img.shields.io/pypi/v/fastlog.svg)
+
 **Fastlog** is designed to spice up your Python script logs with a simple but familiar interface. 
 
 ## Features
