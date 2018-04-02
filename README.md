@@ -9,8 +9,8 @@
   * Works out-of-the-box
   * Sleek defaults
   * Simple, familiar `logging.Logger` interface with new features
-  * Supports all terminal types (for Linux, Windows, MacOS, etc.)
-  * No external package dependencies
+  * Supports all Linux and MacOS terminals
+  * Small footprint
   * Compatible with both Python 2.7 and Python 3
   * Modular styles, but customization is not required
 
@@ -69,6 +69,8 @@ log.setStyle('fastlog.styles.pwntools')
 This project is currently in Beta while I continue to improve some features. 
 
 There aren't any breaking changes planned, just additions of new features.
+
+Windows does not come with the `curses` module, which means there's still work needing to be done to support native Windows.
 
 ## Is this just pwntools?
 Fastlog was born out of a sadness for bland Python script outputs and a love of the logging module from the Pwntools project.
