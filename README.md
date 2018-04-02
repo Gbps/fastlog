@@ -41,12 +41,12 @@ log.hexdump(list(map(chr, range(256))))
 
 ## Installation and Usage
 To install Fastlog, simply grab the PyPi package with pip.
-
-  $ pip install fastlog
-  
+```
+$ pip install fastlog
+```
 To include fastlog in your script, add the following import:
-``` python
-  from fastlog import log
+```python
+from fastlog import log
 ```
 
 ## Documentation
