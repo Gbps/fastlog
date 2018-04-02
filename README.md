@@ -10,7 +10,7 @@
   * Supports all terminal types (for Linux, Windows, MacOS, etc.)
   * No external package dependencies
   * Compatible with both Python 2.7 and Python 3
-  * Moduler styles, but customization is not required
+  * Modular styles, but customization is not required
 
 ## What is this for?
 Fastlog is for anyone who writes quick scripts with lots of print statements but no time for Python's logging module.
