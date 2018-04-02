@@ -39,6 +39,15 @@ log.hexdump(list(map(chr, range(256))))
   <img src="https://github.com/Gbps/fastlog/raw/master/docs/img/small-example.png" alt="Example Console Output" width="351px" height="260px">
 </p>
 
+## Modular styles
+Fastlog supports a modular style interface
+```python
+# Import styles like python modules
+log.setStyle('fastlog.styles.pwntools')
+```
+
+[Check out the default style to see how it works.](fastlog/styles/pwntools.py)
+
 ## Is this just pwntools?
 Fastlog was born out of a sadness for bland Python script outputs and a love of the logging module from the Pwntools project.
 
