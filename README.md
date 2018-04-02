@@ -1,4 +1,4 @@
-# fastlog: ✨simple and colorful Python logs✨
+# fastlog: ✨ simple and colorful python logs ✨
 
 **Fastlog** is designed to spice up your Python script logs with a simple but familiar interface. 
 
