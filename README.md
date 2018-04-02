@@ -9,7 +9,7 @@
   * Works out-of-the-box
   * Sleek defaults
   * Simple, familiar `logging.Logger` interface with new features
-  * Supports all Linux and MacOS terminals
+  * Supports all non-Windows terminals
   * Small footprint
   * Compatible with both Python 2.7 and Python 3
   * Modular styles, but customization is not required
