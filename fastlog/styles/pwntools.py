@@ -60,7 +60,7 @@ The first element of the list is the style of text as it's printed
 
 The second element of the list is the characters to print out for the separator
 """
-separator = [ Style({'fg': 'gray'}), '-'*83 ]
+separator = [ Style({'fg': 'gray'}), '-'*87 ]
 
 """
 The `hexdump` variable defines the style of the hexdump output.
