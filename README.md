@@ -2,7 +2,7 @@
 
 **Fastlog** is designed to spice up your Python script logs with a simple but familiar interface. 
 
-## Features:
+## Features
 
   * Works out-of-the-box
   * Sleek defaults
