@@ -39,6 +39,20 @@ log.hexdump(list(map(chr, range(256))))
   <img src="https://github.com/Gbps/fastlog/raw/master/docs/img/small-example.png" alt="Example Console Output" width="351px" height="260px">
 </p>
 
+## Installation and Usage
+To install Fastlog, simply grab the PyPi package with pip.
+
+  $ pip install fastlog
+  
+To include fastlog in your script, add the following import:
+``` python
+  from fastlog import log
+```
+
+## Documentation
+Fastlog is documented using regular Python docstrings in the source code itself.
+ReadTheDocs compilation is still pending.
+
 ## Modular styles
 Fastlog supports a modular style interface
 ```python
@@ -47,6 +61,10 @@ log.setStyle('fastlog.styles.pwntools')
 ```
 
 [Check out the default style to see how it works.](fastlog/styles/pwntools.py)
+
+## Project Status
+This project is currently in Beta while I continue to improve some features. 
+There aren't any breaking changes planned, just additions of new features.
 
 ## Is this just pwntools?
 Fastlog was born out of a sadness for bland Python script outputs and a love of the logging module from the Pwntools project.
