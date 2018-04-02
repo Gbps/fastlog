@@ -38,7 +38,7 @@ log.hexdump(list(map(chr, range(256))))
 ```
 
 <p align="center">
-  <img src="https://github.com/Gbps/fastlog/raw/master/docs/img/small-example.png" alt="Example Console Output" width="351px" height="260px">
+  <img src="https://github.com/Gbps/fastlog/raw/master/docs/img/small-example.png" alt="Example Console Output" width="60%" height="60%">
 </p>
 
 ## Installation and Usage
