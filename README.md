@@ -9,7 +9,7 @@
   * Works out-of-the-box
   * Sleek defaults
   * Simple, familiar `logging.Logger` interface with new features
-  * Supports all non-Windows terminals
+  * Supports all modern VT-emulated terminals
   * Small footprint
   * Compatible with both Python 2.7 and Python 3
   * Modular styles, but customization is not required
