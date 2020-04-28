@@ -33,7 +33,6 @@ def get(cap, *args, **kwargs):
         return ""
 
     if _win_compat != None:
-        print(cap, args)
         ret = _win_compat.get(cap).get(args)
         return ret
 
